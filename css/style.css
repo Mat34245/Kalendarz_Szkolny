@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+nav{
+    position: fixed;
+    background-color: rgb(190, 57, 84);
+    color: white;
+    font-family:Poppins,sans-serif;
+    width: 100vw;
+    height: 10vh;
+}
+header{
+    width: 100vw;
+    height: 100vh;
+}
+iframe{
+    width: 100vw;
+    height: 100vh;
+}
+footer{
+    background-color: rgb(190, 57, 84);
+}
